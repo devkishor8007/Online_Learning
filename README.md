@@ -1,16 +1,17 @@
 # online_learning
 
-A new Flutter project.
+A new Flutter Online_Learning application. Designed by Arun PP, Code with Flutter by Kishor Kc.
 
-## Getting Started
+## Kishor Kc
 
-This project is a starting point for a Flutter application.
+I am fetching the data from the local JSON API. In the assets directory, you can get the user.json file. Also, you can change the data as per your needs.
 
-A few resources to get you started if this is your first Flutter project:
+Design credit by Arun PP [see the profile](
+https://dribbble.com/arunvenupp
+)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Online_Learning App Final UI
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![outpo](https://user-images.githubusercontent.com/73419211/119085277-2a3a0800-ba23-11eb-9e21-43cf12c1aaea.jpg)
+
+
