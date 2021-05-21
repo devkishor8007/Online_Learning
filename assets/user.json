@@ -1,0 +1,44 @@
+[
+    {
+        "id": "01",
+        "title": "Product Management",
+        "subtittle": "Savannah Ngugen",
+        "recentwatchtime": "5 Hours Listening",
+        "availableClassone": {
+            "title": "Product Management Challenges",
+            "availablewatchtime": "30 Minute Listening"
+        },
+        "availableClasstwo": {
+            "title": "Product Management Best Practices",
+            "availablewatchtime": "30 Minute Listening"
+        }
+    },
+    {
+        "id": "01",
+        "title": "Data Management",
+        "subtittle": "Annette Black",
+        "recentwatchtime": "5 Hours Listening",
+        "availableClassone": {
+            "title": "Product Management Challenges",
+            "availablewatchtime": "30 Minute Listening"
+        },
+        "availableClasstwo": {
+            "title": "Data Management Best Practices",
+            "availablewatchtime": "30 Minute Listening"
+        }
+    },
+    {
+        "id": "01",
+        "title": "Interaction Design",
+        "subtittle": "Jane Cooper",
+        "recentwatchtime": "10 Hours Listening",
+        "availableClassone": {
+            "title": "Interaction Design Challenges",
+            "availablewatchtime": "30 Minute Listening"
+        },
+        "availableClasstwo": {
+            "title": "Interaction Design Best Practices",
+            "availablewatchtime": "30 Minute Listening"
+        }
+    }
+]
